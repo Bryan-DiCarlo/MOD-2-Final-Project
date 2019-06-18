@@ -17,12 +17,12 @@
 5. The results will be analyzed and it will be determined if we have evidence to reject the null hypothesis or fail to reject the null hypthesis based on the evidence.  Results will be stated.  Conclusions that can be drawn from the experiment will be reported
 
 # Questions to be Explored
-* 1. Do discounts have a statistically significant effect on the number of products customers order? Part B: What levels of discounts are significant compared to No Discount?
-* 2. Investigating the Revenue Generated from the Different Regions Northwind Serves. Are there differences?
-* 3. Split the Northwind customer base into The Americas and Greater Europe to compare spending and revenue from customers on different sides of the globe. Do we find any differences?
-* 4. Analyze the number of products sold from each of Northwind's product categories. Do sales differ between product categories?
-* 5. Compare Average Sales Totals from 2012-2013 to 2013-2014. Is there statistically significant revenue growth?
-* 6. Some interesting questions for future work.  I briefly investigate employee sales below.  It would also be important to know the performance of Northwind's three shipping companies. Data is incomplete but I start this analysis below.
+1. Do discounts have a statistically significant effect on the number of products customers order? Part B: What levels of discounts are significant compared to No Discount?
+2. Investigating the Revenue Generated from the Different Regions Northwind Serves. Are there differences?
+3. Split the Northwind customer base into The Americas and Greater Europe to compare spending and revenue from customers on different sides of the globe. Do we find any differences?
+4. Analyze the number of products sold from each of Northwind's product categories. Do sales differ between product categories?
+5. Compare Average Sales Totals from 2012-2013 to 2013-2014. Is there statistically significant revenue growth?
+6. Some interesting questions for future work.  I briefly investigate employee sales below.  It would also be important to know the performance of Northwind's three shipping companies. Data is incomplete but I start this analysis below.
 
 # Question # 1: Conclusions
 * After exploring the Data a difference in the average size of Discounted vs Non-Discounted orders was noticed
